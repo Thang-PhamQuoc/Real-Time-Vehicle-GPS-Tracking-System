@@ -1,7 +1,7 @@
 # Real-Time Vehicle GPS Tracking System 
 
 ![System Demo](https://cdn.phototourl.com/free/2026-06-08-da25d2ff-ff0c-4acf-8eee-309cab3a9db2.jpg)
-
+![System Demo](https://cdn.phototourl.com/free/2026-06-08-df0e83a4-5331-4a0c-a03a-a8df9ed64b57.jpg)
 ## Overview
 An end-to-end Full-stack IoT solution for real-time vehicle tracking. This system captures raw NMEA telemetry data using edge hardware, syncs it continuously to the cloud via REST APIs, and visualizes the live routing trajectory on a cross-platform mobile application.
 
